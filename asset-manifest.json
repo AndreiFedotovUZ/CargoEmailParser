@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CargoEmailParser/static/css/main.073c9b0a.css",
+    "main.js": "/CargoEmailParser/static/js/main.12ad41cd.js",
+    "static/js/787.3d3e5356.chunk.js": "/CargoEmailParser/static/js/787.3d3e5356.chunk.js",
+    "static/media/logo.svg": "/CargoEmailParser/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CargoEmailParser/index.html",
+    "main.073c9b0a.css.map": "/CargoEmailParser/static/css/main.073c9b0a.css.map",
+    "main.12ad41cd.js.map": "/CargoEmailParser/static/js/main.12ad41cd.js.map",
+    "787.3d3e5356.chunk.js.map": "/CargoEmailParser/static/js/787.3d3e5356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12ad41cd.js"
+  ]
+}
